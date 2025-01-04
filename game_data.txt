@@ -1,0 +1,326 @@
+YEAR, INVENTION, INVENTOR, SUMMARY OF INVENTION
+1700, Piano Key Mechanism, Bartolomeo Cristofori, Hammer mechanism in stringed instruments leading to piano invention.
+1701, Seed Drill, Jethro Tull, Revolutionised agriculture by planting seeds at consistent depths.
+1702, Turnip-Rooted Chervil Cultivation, Unknown, Enhanced crop rotation and food availability.
+1703, Barometer Development, Evangelista Torricelli, Improved precision for measuring atmospheric pressure.
+1704, Newton's Reflecting Telescope, Isaac Newton, Allowed astronomers clearer and magnified celestial views.
+1705, Steam Engine (Early Development), Thomas Newcomen, Pioneered steam technology for pumping water.
+1706, Bifocal Lenses, Benjamin Franklin, Combined lenses for near and far vision in one frame.
+1707, Longitude Act, British Parliament, Spurred innovation in navigational tools.
+1708, Mercury Thermometer, Gabriel Fahrenheit, Introduced a more consistent temperature measuring device.
+1709, Piano (Fortepiano), Bartolomeo Cristofori, Provided dynamic expression in music.
+1710, Woodworking Lathe (Improved), Unknown, Advanced shaping and carving efficiency.
+1711, Steam-Driven Pump, Thomas Newcomen, Engineered for use in mining operations.
+1712, Atmospheric Steam Engine, Thomas Newcomen, First practical steam engine for pumping water out of mines.
+1713, Fire Extinguisher (Prototype), Ambrose Godfrey, Early chemical fire suppression tool.
+1714, Mercury Barometer, Daniel Gabriel Fahrenheit, Enhanced weather prediction accuracy.
+1715, Sextant, John Hadley, Revolutionised maritime navigation.
+1716, Diving Bell, Edmond Halley, Allowed longer underwater exploration.
+1717, Mechanical Loom, Unknown, Advanced textile production methods.
+1718, Wheel Cylinder Locks, Robert Barron, Enhanced security mechanisms.
+1719, Industrial Carding Machine, Lewis Paul, Simplified fibre preparation in textiles.
+1720, Marine Chronometer, John Harrison, Precise timekeeping at sea.
+1721, Zinc Smelting Process, William Champion, Innovated metal extraction techniques.
+1722, Light Microscope (Improved), Anton van Leeuwenhoek, Enhanced cellular observation.
+1723, Fire Sprinkler System, Ambrose Godfrey, Provided automatic fire suppression.
+1724, Electrostatic Generator, Stephen Gray, Demonstrated principles of electricity.
+1725, Steel Frame Construction, Unknown, Laid groundwork for skyscraper engineering.
+1726, Water Jet Loom, Unknown, Advanced weaving technology.
+1727, Quartz Clock (Theory), George Graham, Improved accuracy of timekeeping devices.
+1728, Gas Illumination, William Murdoch, Provided energy-efficient lighting.
+1729, Artificial Reef Construction, Unknown, Enhanced marine biodiversity.
+1730, Air-Pump Innovation, Stephen Hales, Advanced study of gases.
+1731, Marine Diving Suit, John Lethbridge, Allowed human underwater movement.
+1732, Franklin Stove, Benjamin Franklin, Enhanced home heating efficiency.
+1733, Flying Shuttle, John Kay, Improved weaving speed and productivity.
+1734, Electroplating, Luigi Galvani, Enabled metal coating for protection and aesthetics.
+1735, Anchor Escapement (Clock), John Harrison, Increased precision in clocks.
+1736, Perpetual Calendar, Unknown, Provided accurate date tracking.
+1737, Drainage Pipe Innovation, Unknown, Advanced urban sanitation.
+1738, Soda Water, William Brownrigg, Introduced artificially carbonated beverages.
+1739, Condensing Steam Engine, James Watt, Made steam engines more efficient.
+1740, Mercury Vapor Lamp (Concept), Francis Hauksbee, Early precursor to electric lighting.
+1741, The Pelican Thermometer, Daniel Gabriel Fahrenheit, Measured specific heat.
+1742, Blast Furnace (Modernised), Abraham Darby, Revolutionised metal smelting.
+1743, Lightning Rod, Benjamin Franklin, Reduced structural fire risk.
+1744, Screw Propeller (Concept), James Watt, Improved ship propulsion.
+1745, Leyden Jar, Pieter van Musschenbroek, First electrical capacitor.
+1746, Cement (Hydraulic), John Smeaton, Allowed underwater construction.
+1747, First Practical Battery, Unknown, Stored electrical charge effectively.
+1748, Mechanical Watch Improvement, Pierre Le Roy, Enhanced portability and accuracy.
+1749, Spark Ignition Engine, Abbe Jean de Hautefeuille, Early combustion engine design.
+1750, Hydrometer, Antoine Baumé, Measured liquid density.
+1751, Cobalt Blue Pigment, Sven Rinman, Introduced vibrant colour for ceramics and glass.
+1752, Lightning Rod (Practical Use), Benjamin Franklin, Protected buildings from lightning strikes.
+1753, Condenser Microphone (Concept), Robert Boyle, Laid groundwork for modern audio equipment.
+1754, Carbonated Water (Process), Joseph Priestley, Made sparkling beverages accessible.
+1755, Water Pump (High-Pressure), John Smeaton, Improved industrial and agricultural water use.
+1756, Submarine Design (Turtle), David Bushnell, Early military underwater vessel.
+1757, Stereotyping Printing, William Ged, Accelerated book production.
+1758, Analytical Balance Scale, Joseph Black, Enhanced precision in chemical measurements.
+1759, Condensing Engine (Improved), James Watt, Revolutionised industrial power generation.
+1760, Spinning Jenny Prototype, James Hargreaves, Improved thread production in textiles.
+1761, Sextant (Practical), John Bird, Increased navigation accuracy.
+1762, Cylinder Printing Press, William Ged, Improved speed of printing processes.
+1763, Chronometer (Marine), John Harrison, Revolutionised sea navigation.
+1764, Spinning Jenny, James Hargreaves, Mechanised multiple thread spinning.
+1765, Watt's Steam Engine, James Watt, Improved energy efficiency in steam engines.
+1766, Hydrogen Discovery, Henry Cavendish, Identified properties of hydrogen gas.
+1767, Carbonated Drink Machine, Joseph Priestley, First device for soda water production.
+1768, Self-Propelled Vehicle (Concept), Nicolas-Joseph Cugnot, Precursor to the automobile.
+1769, Arkwright’s Water Frame, Richard Arkwright, Automated textile spinning process.
+1770, Rubber Eraser, Edward Nairne, Introduced erasing errors from writing.
+1771, Chemical Production of Sulphuric Acid, John Roebuck, Enabled large-scale industrial use.
+1772, Safety Valve for Steam Boilers, James Watt, Improved steam engine safety.
+1773, Screw Propeller (Ship), James Watt, Enhanced naval propulsion.
+1774, Electrolysis Process, Joseph Priestley, Enabled chemical splitting of compounds.
+1775, Mechanical Crankshaft, James Watt, Converted linear motion to rotational motion.
+1776, Submarine (Turtle), David Bushnell, Early military underwater craft.
+1777, Iron Bridge (Construction), Abraham Darby III, First cast-iron bridge for transport.
+1778, Hot Air Balloon Concept, Montgolfier Brothers, Foundation for human flight.
+1779, Spinning Mule, Samuel Crompton, Combined jenny and water frame for textile spinning.
+1780, Automatic Flour Mill, Oliver Evans, Streamlined food production.
+1781, Watt's Rotary Engine, James Watt, Converted steam power to rotational force.
+1782, Hydraulic Press, Joseph Bramah, Used fluid power for compressive tasks.
+1783, Hot Air Balloon (First Flight), Montgolfier Brothers, Achieved human aerial travel.
+1784, Iron Rolling Mill, Henry Cort, Advanced wrought iron production.
+1785, Power Loom, Edmund Cartwright, Mechanised weaving processes.
+1786, Steamboat Concept, John Fitch, Early design for steam-powered vessels.
+1787, Prototypes for Railways, William Jessop, Developed steel tramways for transport.
+1788, Threshing Machine, Andrew Meikle, Mechanised separation of grain from chaff.
+1789, Electric Telegraph (Concept), Samuel Soemmering, Early long-distance communication system.
+1790, Sewing Machine (Prototype), Thomas Saint, Facilitated clothing production.
+1791, Semaphore System, Claude Chappe, Visual signalling over long distances.
+1792, Mechanical Loom, Jacques de Vaucanson, Paved way for programmable looms.
+1793, Cotton Gin, Eli Whitney, Revolutionised cotton fibre separation.
+1794, Lithography, Alois Senefelder, Introduced modern printing techniques.
+1795, Hydraulic Crane, William Armstrong, Used water power to lift heavy loads.
+1796, Smallpox Vaccine, Edward Jenner, Pioneered immunisation against infectious diseases.
+1797, Circular Saw, Samuel Miller, Advanced timber processing technology.
+1798, Mechanical Reaper, Patrick Bell, Improved efficiency in agricultural harvesting.
+1799, Electric Battery, Alessandro Volta, First source of continuous electric current.
+1800, Voltaic Pile, Alessandro Volta, The first electric battery provided a continuous current source.
+1801, Jacquard Loom, Joseph Marie Jacquard, Automated complex weaving patterns using punched cards.
+1802, Electric Arc Lamp, Humphry Davy, Demonstrated an early form of electric lighting.
+1803, Steam-powered Vehicle, Richard Trevithick, Demonstrated an early self-propelled steam vehicle.
+1804, Steam Locomotive, Richard Trevithick, Revolutionized transportation by introducing rail-powered travel.
+1805, Tinned Food, Nicolas Appert, Introduced a method to preserve food by heat-sealing in cans.
+1806, Gas Lighting, Frederick Winsor, Made public and domestic lighting more accessible.
+1807, Steamboat, Robert Fulton, Made river navigation faster and more efficient.
+1808, Typewriter Prototype, Pellegrino Turri, Developed a mechanical typing machine.
+1809, Electric Arc Lamp, Humphry Davy, Improved lighting with early electric technology.
+1810, Tin Can, Peter Durand, Allowed long-term food preservation.
+1811, Luddites’ Protests, Anonymous, Highlighted resistance to industrialization and mechanization.
+1812, War Machine, Robert Fulton, Designed the Nautilus, an early submarine prototype.
+1813, Circular Saw, Tabitha Babbitt, Improved wood-cutting efficiency.
+1814, Printing Press Improvements, Friedrich Koenig, Allowed faster production of printed material.
+1815, Safety Lamp, Humphry Davy, Reduced mining accidents from gas explosions.
+1816, Stethoscope, René Laennec, Revolutionized medical diagnostics.
+1817, Bicycle (Draisine), Karl von Drais, Introduced the first two-wheeled transport.
+1818, Coffee Percolator, Unknown, Made coffee brewing more efficient.
+1819, Electromagnetism Laws, Hans Christian Ørsted, Established foundational knowledge in physics.
+1820, Electromagnet, William Sturgeon, Advanced electrical engineering principles.
+1821, Electric Motor Prototype, Michael Faraday, Demonstrated early mechanical conversion of electricity.
+1822, Mechanical Calculator, Charles Babbage, Designed the Difference Engine for automated calculations.
+1823, Rubber Waterproofing, Charles Macintosh, Made fabric weather-resistant.
+1824, Portland Cement, Joseph Aspdin, Revolutionized construction.
+1825, Locomotive-powered Railway, George Stephenson, Opened the first public railway.
+1826, Photographic Process, Joseph Nicéphore Niépce, Captured the first permanent photograph.
+1827, Friction Matches, John Walker, Made fire-starting easier.
+1828, Electroplating, Luigi Brugnatelli, Improved material preservation and aesthetics.
+1829, Braille System, Louis Braille, Enabled visually impaired individuals to read and write.
+1830, Lawn Mower, Edwin Budding, Improved agricultural maintenance tools.
+1831, Dynamo Generator, Michael Faraday, Enabled mechanical electricity generation.
+1832, Telegraph Prototype, Baron Schilling, Laid the groundwork for long-distance communication.
+1833, Analytical Engine Design, Charles Babbage, Conceptualized the first general-purpose computer.
+1834, Reaper, Cyrus McCormick, Revolutionized agricultural harvesting.
+1835, Revolver, Samuel Colt, Developed an early repeating firearm.
+1836, Morse Code, Samuel Morse, Developed a language for telegraphy.
+1837, Telegraph, Samuel Morse, Revolutionized communication.
+1838, Steel Plow, John Deere, Improved farming productivity.
+1839, Photography (Daguerreotype), Louis Daguerre, Made photography accessible.
+1840, Adhesive Postage Stamp, Rowland Hill, Made postal systems more efficient.
+1841, Synthetic Dye, Carl Ludwig Reichenbach, Created early artificial colourants.
+1842, Ether Anaesthesia, Crawford Long, Introduced surgical anaesthesia.
+1843, Rotary Printing Press, Richard March Hoe, Increased publishing speed.
+1844, Vulcanized Rubber, Charles Goodyear, Made rubber more durable.
+1845, Safety Pin, Walter Hunt, Simplified fastening materials.
+1846, Sewing Machine, Elias Howe, Automated clothing production.
+1847, Anaesthetic Chloroform, James Simpson, Advanced surgical procedures.
+1848, Hydraulic Crane, William Armstrong, Improved material handling.
+1849, Safety Elevator, Elisha Otis, Made high-rise buildings practical.
+1850, Dishwashing Machine, Joel Houghton, Simplified cleaning tasks.
+1851, Ice-making Machine, John Gorrie, Enabled artificial cooling.
+1852, Airship (Prototype), Henri Giffard, Advanced aerial navigation.
+1853, Hypodermic Syringe, Alexander Wood, Simplified medical injections.
+1854, Incandescent Light Bulb, Heinrich Göbel, Paved the way for electric lighting.
+1855, Bessemer Process, Henry Bessemer, Revolutionized steel production.
+1856, Mauveine Dye, William Perkin, Initiated synthetic dye production.
+1857, Passenger Elevator, Otis Elevator Company, Revolutionized architecture.
+1858, Carbon Microphone, David Hughes, Improved sound transmission.
+1859, Electric Battery (Lead-acid), Gaston Planté, Pioneered rechargeable batteries.
+1860, Internal Combustion Engine, Étienne Lenoir, Pioneered engines that use internal combustion of fuel.
+1861, Machine Gun, Richard Gatling, Invented a rapid-firing weapon to reduce human labour in war.
+1862, Plastic (Parkesine), Alexander Parkes, Introduced the first synthetic plastic material.
+1863, Subway System, Charles Pearson, Opened the London Underground, the first subway system.
+1864, Pasteurisation, Louis Pasteur, Revolutionised food safety by killing bacteria in liquids.
+1865, Pneumatic Tyre, Robert William Thomson, Invented the first air-filled tyre for smoother rides.
+1866, Dynamite, Alfred Nobel, Developed a safer and more powerful explosive.
+1867, Typewriter, Christopher Latham Sholes, Improved written communication efficiency.
+1868, Traffic Signal, J.P. Knight, Installed the first manually operated traffic light.
+1869, Periodic Table, Dmitri Mendeleev, Organized chemical elements systematically.
+1870, Hydraulic Brake, George Westinghouse, Revolutionised braking systems in trains.
+1871, Modern Escalator, Jesse Reno, Designed an early moving staircase.
+1872, Automatic Telephone Exchange, Almon Strowger, Enabled automated telephone switching.
+1873, Barbed Wire, Joseph Glidden, Provided a cheap and effective fencing solution.
+1874, Lawn Sprinkler, Joseph Lessler, Improved agricultural irrigation.
+1875, Electric Dental Drill, George Green, Simplified dental procedures.
+1876, Telephone, Alexander Graham Bell, Revolutionised communication over long distances.
+1877, Phonograph, Thomas Edison, Enabled sound recording and playback.
+1878, Incandescent Light Bulb, Thomas Edison and Joseph Swan, Introduced practical electric lighting.
+1879, Cash Register, James Ritty, Improved business transaction tracking.
+1880, Photophone, Alexander Graham Bell, Transmitted sound on a beam of light.
+1881, Metal Detector, Alexander Graham Bell, Developed for medical use to locate bullets.
+1882, Electric Fan, Schuyler Wheeler, Introduced an early cooling device.
+1883, Thermionic Valve, Thomas Edison, Advanced electronics and radio technology.
+1884, Fountain Pen, Lewis Waterman, Simplified portable writing.
+1885, Automobile (Gasoline-powered), Karl Benz, Introduced the modern car.
+1886, Dishwasher, Josephine Cochrane, Simplified dish-cleaning tasks.
+1887, Gramophone, Emile Berliner, Improved sound recording technology.
+1888, Pneumatic Tyre (Practical), John Boyd Dunlop, Enhanced road vehicles’ performance.
+1889, Motion Picture Camera, Thomas Edison, Allowed moving images to be recorded.
+1890, Tabulating Machine, Herman Hollerith, Automated data processing, the precursor to computers.
+1891, Zipper, Whitcomb Judson, Introduced a fastener for clothing and bags.
+1892, Diesel Engine, Rudolf Diesel, Designed a highly efficient engine type.
+1893, Ferris Wheel, George Ferris, Created the first large observation wheel.
+1894, Radio Waves Detection, Guglielmo Marconi, Advanced wireless communication.
+1895, X-ray Imaging, Wilhelm Röntgen, Revolutionised medical diagnostics.
+1896, Steam Turbine, Charles Parsons, Improved power generation.
+1897, Cathode Ray Tube, Karl Ferdinand Braun, Paved the way for modern televisions.
+1898, Radio-controlled Boat, Nikola Tesla, Demonstrated wireless control technology.
+1899, Flashlight, Conrad Hubert, Introduced portable electric lighting.
+1900, Zeppelin Airship, Ferdinand von Zeppelin, Developed a practical rigid airship for flight.
+1901, Radio Transmission, Guglielmo Marconi, Sent the first transatlantic wireless communication.
+1902, Air Conditioner, Willis Carrier, Invented to control temperature and humidity indoors.
+1903, Airplane, Wright Brothers, Achieved the first powered flight.
+1904, Vacuum Tube, John Ambrose Fleming, Revolutionised electronic signal amplification.
+1905, Theory of Relativity, Albert Einstein, Introduced the foundation for modern physics.
+1906, SOS Signal, Radio Community, Established as the standard distress signal.
+1907, Electric Washing Machine, Alva Fisher, Simplified household laundry.
+1908, Model T Car, Henry Ford, Made automobiles affordable for the masses.
+1909, Plastic (Bakelite), Leo Baekeland, Created the first true synthetic plastic.
+1910, Neon Lamp, Georges Claude, Introduced luminous advertising lights.
+1911, Naval Aircraft Carrier, Royal Navy, Launched the first ship to carry planes.
+1912, Stainless Steel, Harry Brearley, Developed a corrosion-resistant alloy.
+1913, Assembly Line, Henry Ford, Revolutionised mass production.
+1914, Tank, Ernest Swinton, Developed for trench warfare in World War I.
+1915, Pyrex Glass, Corning Glass Works, Invented heat-resistant glassware.
+1916, Radio Tuner, Edwin Armstrong, Improved radio selectivity and amplification.
+1917, Zipper (Improved), Gideon Sundback, Created the modern functional zipper.
+1918, Superheterodyne Receiver, Edwin Armstrong, Revolutionised radio signal processing.
+1919, Pop-up Toaster, Charles Strite, Made breakfast preparation convenient.
+1920, Band-Aid, Earle Dickson, Invented for quick and easy wound dressing.
+1921, Robots, Karel Čapek, Coined the term in his play "R.U.R."
+1922, Insulin (Therapeutic Use), Frederick Banting and Charles Best, Revolutionised diabetes treatment.
+1923, Traffic Light (Automatic), Garrett Morgan, Improved road safety.
+1924, Loudspeaker, Chester W. Rice, Enhanced sound amplification.
+1925, Television (Mechanical), John Logie Baird, Demonstrated the first working system.
+1926, Liquid-fuel Rocket, Robert Goddard, Laid the groundwork for modern rocketry.
+1927, Quartz Clock, Warren Marrison, Increased timekeeping accuracy.
+1928, Penicillin, Alexander Fleming, Pioneered the antibiotic revolution.
+1929, Car Radio, Paul Galvin, Enhanced in-car entertainment.
+1930, Jet Engine (Prototype), Frank Whittle, Conceived early jet propulsion.
+1931, Electric Guitar, George Beauchamp, Revolutionised modern music.
+1932, Polaroid Filter, Edwin Land, Developed for better light control.
+1933, FM Radio, Edwin Armstrong, Improved audio quality in broadcasting.
+1934, Nylon, Wallace Carothers, Introduced the first synthetic fibre.
+1935, Radar, Robert Watson-Watt, Enabled early detection of aircraft and ships.
+1936, Digital Computer, Konrad Zuse, Built the Z3, the first programmable computer.
+1937, Jet Engine (Operational), Hans von Ohain, Achieved practical jet propulsion.
+1938, Ballpoint Pen, László Bíró, Improved writing convenience.
+1939, Helicopter, Igor Sikorsky, Built the first practical rotary-wing aircraft.
+1940, Colour Television, Peter Goldmark, Enhanced visual broadcasting.
+1941, Jeep, Bantam Car Company, Introduced for military versatility.
+1942, Atomic Bomb, Manhattan Project, Achieved the first nuclear explosion.
+1943, Slinky, Richard James, Created a simple, fun, and iconic toy.
+1944, Kidney Dialysis Machine, Willem Kolff, Saved lives with artificial filtration.
+1945, Microwave Oven, Percy Spencer, Transformed food preparation.
+1946, Mobile Phone (Prototype), Bell Labs, Demonstrated mobile communication.
+1947, Transistor, John Bardeen, Walter Brattain, William Shockley, Revolutionised electronics.
+1948, Velcro, George de Mestral, Introduced an innovative fastener.
+1949, Remote Control, Robert Adler, Enabled wireless control of devices.
+1950, Credit Card, Frank McNamara, Revolutionised personal finance.
+1951, UNIVAC I, John Presper Eckert and John Mauchly, The first commercial computer.
+1952, Bar Code, Joseph Woodland and Bernard Silver, Revolutionised retail and inventory systems.
+1953, DNA Structure Discovery, James Watson and Francis Crick, Revolutionised genetics and biology.
+1954, Solar Cell, Bell Labs, Pioneered photovoltaic energy.
+1955, Polio Vaccine, Jonas Salk, Saved millions from poliomyelitis.
+1956, Hard Disk Drive, IBM, Revolutionised data storage.
+1957, Satellite (Sputnik), Soviet Union, Launched the first artificial satellite.
+1958, Integrated Circuit, Jack Kilby and Robert Noyce, Revolutionised electronics miniaturisation.
+1959, Microchip, Robert Noyce, Enabled modern computing power.
+1960, Laser, Theodore Maiman, Pioneered advancements in optics and communication.
+1961, Human Spaceflight, Yuri Gagarin, Became the first human in space.
+1962, LED, Nick Holonyak Jr., Introduced energy-efficient lighting.
+1963, Computer Mouse, Douglas Engelbart, Revolutionised user interaction with computers.
+1964, BASIC Programming Language, John Kemeny and Thomas Kurtz, Simplified coding for beginners.
+1965, Kevlar, Stephanie Kwolek, Revolutionised material durability and strength.
+1966, Artificial Heart, Michael DeBakey, Performed the first artificial heart implantation.
+1967, ATM, John Shepherd-Barron, Made banking more accessible.
+1968, RAM (Dynamic), Robert Dennard, Increased computer memory efficiency.
+1969, Internet (ARPANET), ARPA, Laid the foundation for modern internet.
+1970, Floppy Disk, IBM, Provided portable digital storage.
+1971, Microprocessor, Intel (Ted Hoff, Federico Faggin), Enabled modern personal computing.
+1972, Video Game Console, Ralph H. Baer, Introduced interactive electronic entertainment.
+1973, Mobile Phone, Martin Cooper, Conducted the first handheld mobile call.
+1974, Post-it Notes, Arthur Fry, Revolutionised note-taking.
+1975, Digital Camera, Steven Sasson, Enabled electronic image capture.
+1976, Personal Computer (Apple I), Steve Wozniak and Steve Jobs, Made computing accessible to individuals.
+1977, MRI Scanner, Raymond Damadian, Transformed medical imaging.
+1978, GPS, U.S. Department of Defense, Revolutionised navigation and location tracking.
+1979, Sony Walkman, Nobutoshi Kihara, Revolutionised portable music.
+1980, Hepatitis B Vaccine, Maurice Hilleman, Saved lives from hepatitis-related diseases.
+1981, IBM PC, IBM, Standardised personal computing for businesses.
+1982, CD (Compact Disc), Sony and Philips, Revolutionised digital music and data storage.
+1983, Camcorder, Sony and JVC, Enabled portable video recording.
+1984, DNA Fingerprinting, Alec Jeffreys, Transformed forensic science.
+1985, Windows OS, Microsoft, Made graphical computing widespread.
+1986, Disposable Contact Lenses, Johnson & Johnson, Improved optical convenience.
+1987, Prozac, Eli Lilly, Introduced the first SSRI antidepressant.
+1988, Doppler Radar, NOAA, Improved weather prediction accuracy.
+1989, World Wide Web, Tim Berners-Lee, Revolutionised global communication.
+1990, Hubble Space Telescope, NASA, Extended our view of the universe.
+1991, Linux, Linus Torvalds, Introduced an open-source operating system.
+1992, Smartphone (IBM Simon), IBM, Combined telephony with computing features.
+1993, GPS for Civilians, U.S. Department of Defense, Made global navigation accessible.
+1994, PlayStation, Sony, Revolutionised gaming.
+1995, Java Programming Language, James Gosling, Standardised cross-platform software.
+1996, Dolly the Sheep, Ian Wilmut, Achieved the first animal cloning.
+1997, Hybrid Car (Toyota Prius), Toyota, Pioneered eco-friendly vehicle technology.
+1998, Google Search Engine, Larry Page and Sergey Brin, Revolutionised access to online information.
+1999, Wi-Fi, Vic Hayes (Wi-Fi Alliance), Enabled wireless internet connectivity.
+2000, Human Genome Project (Draft), International Collaboration, Mapped the human genetic code.                   
+2001, iPod, Apple (Steve Jobs), Revolutionised portable music with digital storage.
+2002, Roomba, iRobot, Introduced autonomous robotic vacuum cleaning.
+2003, Human Genome Project Completion, International Consortium, Mapped the entire human genome.
+2004, Facebook, Mark Zuckerberg, Changed social media interactions globally.
+2005, YouTube, Steve Chen, Chad Hurley, Jawed Karim, Revolutionised video sharing and streaming.
+2006, Blu-ray Disc, Sony, Enhanced data storage with high-definition optical discs.
+2007, iPhone, Apple (Steve Jobs), Transformed smartphones with touchscreens and app stores.
+2008, Blockchain Technology, Satoshi Nakamoto, Introduced secure and decentralised transaction systems.
+2009, Kindle DX, Amazon, Advanced e-readers with larger screens and global wireless access.
+2010, Instagram, Kevin Systrom and Mike Krieger, Changed how we share visual content globally.             
+2011, Siri, Apple, Brought voice-activated AI to mainstream smartphones.
+2012, CRISPR-Cas9, Emmanuelle Charpentier and Jennifer Doudna, Revolutionised gene editing.                 
+2013, Hyperloop Concept, Elon Musk, Proposed ultra-fast transportation using vacuum tubes.
+2014, Alexa, Amazon, Introduced AI-powered smart home assistants.
+2015, SpaceX Falcon 9 Reusable Rocket, SpaceX, Revolutionised cost-efficient space exploration.
+2016, Pokémon GO, Niantic, Popularised augmented reality gaming.
+2017, Tesla Semi, Tesla Inc., Developed electric-powered semi-trucks for sustainable logistics.
+2018, AI-Generated Art (GANs), Ian Goodfellow, Demonstrated artificial creativity.
+2019, Meatless Burgers (Beyond Meat), Ethan Brown, Innovated plant-based protein for environmental sustainability.
+2020, COVID-19 mRNA Vaccines, BioNTech/Pfizer and Moderna, Revolutionised vaccine development.
+2021, Neuralink Brain Implant, Elon Musk’s Neuralink, Created direct brain-machine interface technology.
+2022, AI Chatbots (GPT-3/4), OpenAI, Advanced human-computer interaction with natural language processing.
+2023, Nuclear Fusion Breakthrough, Lawrence Livermore National Laboratory, Achieved net-positive energy from fusion.
+2024, Solid-State Batteries, Toyota, Revolutionised battery technology with enhanced efficiency and safety.                        
