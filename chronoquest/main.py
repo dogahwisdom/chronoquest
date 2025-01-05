@@ -58,7 +58,10 @@ def play_round(inventions, mistakes, score, high_score, difficulty):
     if len(inventions) < 2:
         raise ValueError("Insufficient inventions to play a round.")
 
-    while True:
+    max_attempts = 10  # Prevent infinite loop
+    attempts = 0
+
+    while attempts < max_attempts:
         invention1, invention2 = random.sample(inventions, 2)
         year_diff = abs(invention1["year"] - invention2["year"])
 
@@ -70,6 +73,10 @@ def play_round(inventions, mistakes, score, high_score, difficulty):
             (difficulty == 'medium' and 5 <= year_diff < 10) or
             (difficulty == 'hard' and year_diff < 5)):
             break
+        attempts += 1
+
+    if attempts == max_attempts:
+        raise ValueError("Unable to find valid invention pair for this round.")
 
     display_invention(invention1)
     display_invention(invention2)
